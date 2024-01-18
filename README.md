@@ -1,5 +1,3 @@
-# Snack Expo (MERN)
+INI MERUPAKAN BACKEND EXPO MERN PERTEMUAN 7
 
-FrontEnd :
-https://snack.expo.dev/@alriawi/6?platform=web
  
